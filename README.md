@@ -2,7 +2,7 @@
 
 ### iOS Retro Synthwave Wallpaper App
 
-![iOS Retro Synthwave](https://user-images.githubusercontent.com/45048950/72828920-a817c300-3cb8-11ea-9c42-9a2da47922a0.png)
+![Screenshot 2020-02-15 at 11 59 05 PM](https://user-images.githubusercontent.com/45048950/74591028-30d31600-504f-11ea-8a5e-bc6eb926c123.png)
 
 ### Built With :
 
